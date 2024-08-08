@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+pillow
+opencv-python
+tensorflow
+scikit-image
+qiskit
+qiskit-aer
+pyngrok
+Pylance
